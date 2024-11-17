@@ -24,5 +24,8 @@ Experienced on : ![Android](https://img.shields.io/badge/Android-3DDC84?style=fo
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jalzae&hide=scss,stylus,blade,jupyter%20notebook,css,shell,batchfile&theme=algolia&show_icons=true)](https://github.com/jalzae)
+
+
 
 
